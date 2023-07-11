@@ -1,0 +1,7 @@
+# Chinese-Handwritten-Digit-Recognition-Using-Machine-Learning
+
+Abstract 
+
+The recognition of handwritten digits is among the most popular applications in image classification. Chinese language is not just some simple alphabet symbols. It has unique set of characters called logograms and versatile handwriting strokes. Handwriting style of different individuals affects the structure and representation of the digits and makes the problem of digit recognition more difficult. Chinese Handwritten digits’ recognition is a challenging task for machine learning due to its variety of patterns, size and strokes according to each individual. Although decent recognition accuracy has been reported by these classifiers such as such as Logistic Regression (LR), Linear Discriminant Analysis (LDA), K-nearest Neighbors (KNN), and Decision Tree (DT), handwriting digit recognition is still an open research problem to be explored. We have developed multiple machine learning models for Chinese handwritten digit recognition. We have analyzed previously conducted studies, and developed multiple machine learning models. Our developed models are multi-class classifiers, trained on a Chinese digit’s image dataset. Then, we evaluated the performance of the models and compared the results. The proposed CNN model has achieved an accuracy of 98.93% for recognition of handwritten Chinese digit images.
+
+Keywords — Chinese Handwritten Digit, Machine Learning, Convolutional Neural Network
